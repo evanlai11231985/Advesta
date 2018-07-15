@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "My Site",
-    "currentPage": "index.html",
+    "currentPage": "ChineseTraditional.html",
     "versionFirst": "4.0.14",
     "uniqCompNum": 97,
     "versionPublish": "4.8.1",
@@ -1097,7 +1097,7 @@
         }
       ]
     },
-    "page1.html": {
+    "ChineseTraditional.html": {
       "settings": {
         "title": "歡迎",
         "meta_descr": "",
