@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Advesta",
-    "currentPage": "Welcome.html",
+    "currentPage": "CHTW.html",
     "versionFirst": "4.0.14",
     "uniqCompNum": 98,
     "versionPublish": "4.8.1",
@@ -1059,6 +1059,9 @@
             },
             ".panel-text B": {
               "color": "#232323"
+            },
+            ".panel-text": {
+              "color": "#282938"
             }
           },
           "_name": "accordion1",
@@ -2105,6 +2108,9 @@
             },
             ".panel-text B": {
               "color": "#232323"
+            },
+            ".panel-text": {
+              "color": "#282938"
             }
           },
           "_name": "accordion1",
